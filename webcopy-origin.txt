@@ -1,0 +1,88 @@
+Uri: https://cdn.clubcooee.com/img/home04/lp-hero-04.jpg
+File Name: C:\Downloaded Web Sites\clubland.com.br\img\home04\lp-hero-04.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.clubcooee.com/img/icons/favicons/site.webmanifest?v=GvmoMPPGAN
+File Name: C:\Downloaded Web Sites\clubland.com.br\img\icons\favicons\site.webmanifest
+Content Type: text/plain
+
+Uri: https://clubland.com.br/
+File Name: C:\Downloaded Web Sites\clubland.com.br\index.htm
+Content Type: text/html
+
+Uri: https://clubland.com.br/download/ClubSetup1.1.4.rar
+File Name: C:\Downloaded Web Sites\clubland.com.br\download\ClubSetup1.1.4.rar
+Content Type: application/x-rar-compressed
+
+Uri: https://clubland.com.br/favicon.ico
+File Name: C:\Downloaded Web Sites\clubland.com.br\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://clubland.com.br/images/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://clubland.com.br/images/awards.png
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\awards.png
+Content Type: image/png
+
+Uri: https://clubland.com.br/images/cooee_lp04_party_01.jpg
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\cooee_lp04_party_01.jpg
+Content Type: image/jpeg
+
+Uri: https://clubland.com.br/images/cooee_lp04_pets_02.jpg
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\cooee_lp04_pets_02.jpg
+Content Type: image/jpeg
+
+Uri: https://clubland.com.br/images/cooee_lp04_style_01.jpg
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\cooee_lp04_style_01.jpg
+Content Type: image/jpeg
+
+Uri: https://clubland.com.br/images/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://clubland.com.br/images/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://clubland.com.br/images/flags-02.png
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\flags-02.png
+Content Type: image/png
+
+Uri: https://clubland.com.br/images/lp-hero-04.jpg
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\lp-hero-04.jpg
+Content Type: image/jpeg
+
+Uri: https://clubland.com.br/images/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\clubland.com.br\images\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://clubland.com.br/js/conversion.js
+File Name: C:\Downloaded Web Sites\clubland.com.br\js\conversion.js
+Content Type: application/javascript
+
+Uri: https://clubland.com.br/js/fbevents.js
+File Name: C:\Downloaded Web Sites\clubland.com.br\js\fbevents.js
+Content Type: application/javascript
+
+Uri: https://clubland.com.br/media/lp-hero-03-512x288.mp4
+File Name: C:\Downloaded Web Sites\clubland.com.br\media\lp-hero-03-512x288.mp4
+Content Type: video/mp4
+
+Uri: https://clubland.com.br/media/lp-hero-03-512x288.webm
+File Name: C:\Downloaded Web Sites\clubland.com.br\media\lp-hero-03-512x288.webm
+Content Type: video/webm
+
+Uri: https://www.facebook.com/tr?id=1587607441480292&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\clubland.com.br\tr
+Content Type: text/plain
+
+Uri: https://www.google.com.br/pagead/1p-user-list/1035500425/?value=0&guid=ON&script=0&is_vtc=1&cid=CAQSKQAvHhf_2On8nM38d9Z8CQs7yPXX0JevSvM7Svn2BjOobpA5gNFm38bX&random=3836507014&ipr=y
+File Name: C:\Downloaded Web Sites\clubland.com.br\pagead\1p-user-list\1035500425\index.htm
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-PKKMKWHEZT
+File Name: C:\Downloaded Web Sites\clubland.com.br\gtag\js
+Content Type: application/javascript
+
